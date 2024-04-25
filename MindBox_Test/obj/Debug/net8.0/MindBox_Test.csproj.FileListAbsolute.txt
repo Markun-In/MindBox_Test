@@ -1,0 +1,14 @@
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\bin\Debug\net8.0\MindBox_Test.exe
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\bin\Debug\net8.0\MindBox_Test.deps.json
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\bin\Debug\net8.0\MindBox_Test.runtimeconfig.json
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\bin\Debug\net8.0\MindBox_Test.dll
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\bin\Debug\net8.0\MindBox_Test.pdb
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.AssemblyInfoInputs.cache
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.AssemblyInfo.cs
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.csproj.CoreCompileInputs.cache
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.dll
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\refint\MindBox_Test.dll
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.pdb
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\MindBox_Test.genruntimeconfig.cache
+C:\Users\mark_\OneDrive\Рабочий стол\Learn\Programming learning\MindBox_Test\MindBox_Test\obj\Debug\net8.0\ref\MindBox_Test.dll
